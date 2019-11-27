@@ -10,4 +10,4 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Build the site in the jekyll/builder container
-      run: ls >a.txt
+      run: ls 
